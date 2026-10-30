@@ -1,6 +1,6 @@
 # Sirius Binary Star Simulation
 
-A small graphics 2D simulation of the Sirius A and Sirius B binary star system, written in C/C++ with the WinBGIm graphics library (`graphics.h`). Both stars move along elliptical orbits around their barycenter, and their speed changes along the orbit as it does in real Keplerian motion: fast near periapsis, slow near apoapsis.
+A small graphics 2D simulation of the Sirius binary star system, with its stars Sirius A and Sirius B, written in C/C++ with the WinBGIm graphics library (`graphics.h`). Both stars move along elliptical orbits around their barycenter, and their speed changes along the orbit as it does in real Keplerian motion: fast near periapsis, slow near apoapsis.
 
 ## Screenshot
 
